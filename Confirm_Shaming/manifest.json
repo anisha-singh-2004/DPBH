@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Confirm Shaming Detector",
+  "version": "0.0.1",
+  "description": "Detects confirm shaming messages",
+  "permissions": ["activeTab", "tabs", "storage"],
+  "action": {
+    "default_icon": "warning.png",
+    "default_popup": "popup.html"
+  }
+}
+
